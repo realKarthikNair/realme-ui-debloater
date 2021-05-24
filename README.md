@@ -9,3 +9,6 @@ OR
 
 To enable a disabled package
 "adb shell pm enable \<package name\>"
+# How to use?
+
+Simply download the txt file and everything is in there
