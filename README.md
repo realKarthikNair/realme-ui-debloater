@@ -1,5 +1,9 @@
 # realme-ui-debloater
 
+Tired of Chinese bloatwares and useless Google apps in Realme UI? <br>
+You're not alone and here's something to help you out<br>
+No complicated steps, no root required, entirely safe<br>
+
 ## Requirements 
 
 `1. A Realme device with USB bebugging on `  
@@ -9,7 +13,7 @@
 
 ## How to Use
 
-`1. Download this zip and extract it`  
+`1. Download the zip and extract it`  
 `2. Turn on usb debugging (Google how to)`  
 `3. Run the DebloatRealme.bat file`  
 
