@@ -1,4 +1,4 @@
-# realme-ui--debloater
+# realme-ui-debloater
 
 ## Requirements 
 
