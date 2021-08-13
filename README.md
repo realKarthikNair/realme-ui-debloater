@@ -17,6 +17,7 @@ No complicated steps, no root required, entirely safe<br>
 `2. Turn on usb debugging (Google how to)`  
 `3. Run the DebloatRealme.bat file`  
 
+[Source code zip](https://github.com/realKarthikNair/realme-ui-debloater/releases)
 # That's it ! Enjoy !
 
 ## footnotes
