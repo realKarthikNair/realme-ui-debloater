@@ -23,7 +23,7 @@ OR
 `"adb shell cmd package install-existing <package name>"`  
 
 To enable a disabled package  
-`"adb shell pm enable <package name>"`  
+`"adb shell pm enable <package name>"`     
 
 
 
