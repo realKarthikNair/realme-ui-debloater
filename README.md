@@ -33,8 +33,7 @@ To enable a disabled package
 >Made with Love™ ❤️
 
 >by Karthik Nair 
+[instagram ](https://www.instagram.com/harry_kris_) <br>
+[twitter](https://www.twitter.com/realkarthiknair)
 
->http://instagr.am/harry_kris 
-
->http://twitter.com/RealKarthikNair
 
