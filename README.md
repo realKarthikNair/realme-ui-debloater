@@ -6,7 +6,7 @@ No complicated steps, no root required, entirely safe<br>
 
 ## Requirements 
 
-`1. A Realme device with USB bebugging on `  
+`1. A Realme device with USB debugging on `  
 `2. computer`
 
 [see how to turn on USB debugging](https://telegra.ph/How-to-turn-USB-Debugging-ON-on-a-realmeoppooneplus-device-08-13)
