@@ -17,6 +17,9 @@ adb shell pm uninstall com.google.android.apps.podcasts
 adb shell pm uninstall com.realme.link
 adb shell pm uninstall com.google.android.apps.youtube.music
 adb shell pm uninstall com.google.android.apps.tachyon
+adb shell pm uninstall -k --user 0 com.coloros.systemclone
+adb shell pm uninstall -k --user 0 com.realmepay.payments
+adb shell pm uninstall -k --user 0 com.opos.cs
 adb shell pm uninstall -k --user 0 com.facebook.katana
 adb shell pm uninstall -k --user 0 com.facebook.system
 adb shell pm uninstall -k --user 0 com.facebook.appmanager
