@@ -33,8 +33,6 @@ adb shell pm uninstall -k --user 0 com.heytap.themestore
 adb shell pm uninstall -k --user 0 com.heytap.pictorial
 adb shell pm uninstall -k --user 0 com.heytap.habit.analysis
 adb shell pm uninstall -k --user 0 com.coloros.backuprestore
-adb shell pm uninstall -k --user 0 com.coloros.alarmclock
-adb shell pm uninstall -k --user 0 com.coloros.calculator
 adb shell pm uninstall -k --user 0 com.google.android.apps.magazines
 adb shell pm uninstall -k --user 0 com.google.android.apps.subscriptions.red
 adb shell pm uninstall -k --user 0 com.coloros.oshare
