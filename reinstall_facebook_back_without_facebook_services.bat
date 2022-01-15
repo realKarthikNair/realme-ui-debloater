@@ -12,7 +12,7 @@ pause
 adb wait-for-any-device
 adb reconnect
 adb wait-for-any-device
-adb shell pm install-existing -k --user 0 com.facebook.katana
+adb shell pm install-existing com.facebook.katana
 echo %s%
 echo Success
 echo %s%
