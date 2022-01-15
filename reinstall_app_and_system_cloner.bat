@@ -13,6 +13,7 @@ adb wait-for-any-device
 adb reconnect
 adb wait-for-any-device
 adb shell pm install-existing com.coloros.systemclone
+adb shell pm install-existing com.coloros.oppomultiapp
 echo %s%
 echo Success
 echo %s%
