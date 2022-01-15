@@ -12,7 +12,7 @@ pause
 adb wait-for-any-device
 adb reconnect
 adb wait-for-any-device
-adb shell pm uninstall -k --user 0 com.realmepay.payments
+adb shell pm install-existing com.realmepay.payments
 echo %s%
 echo Success
 echo %s%
