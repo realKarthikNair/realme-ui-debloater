@@ -33,7 +33,17 @@ To enable a disabled package
 >Made with Love™ ❤️
 
 >by Karthik Nair 
-[instagram ](https://www.instagram.com/harry_kris_) <br>
-[twitter](https://www.twitter.com/realkarthiknair)
+
+## How to reach me? 
+[Karthik Nair](https://github.com/realkarthiknair)
+
+<p align="left">
+    <a href="https://www.instagram.com/harry_kris_" alt="instagram">
+        <img src="https://img.shields.io/badge/Instagram-%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB-yellowgreen" /></a>
+    <a href="https://www.telegram.me/realkarthiknair" alt="Telegram">
+        <img src="https://img.shields.io/badge/Telegram-%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB-orange" /></a>
+    <a href="https://www.twitter.com/realkarthiknair" alt="twitter">
+        <img src="https://img.shields.io/badge/Twitter-%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB-orange" /></a>
+</p>
 
 
