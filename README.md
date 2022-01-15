@@ -16,7 +16,7 @@ No complicated steps, no root required, entirely safe<br>
 
 ## How to Use
 
-`1. Download the source code zip from releases and extract it`  
+`1. Download the latest source code zip from releases and extract it`  
 `2. Turn on usb debugging (Google how to)`  
 `3. Run the DebloatRealme.bat file`  
 
