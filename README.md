@@ -35,7 +35,6 @@ To enable a disabled package
 >by Karthik Nair 
 
 ## How to reach me? 
-[Karthik Nair](https://github.com/realkarthiknair)
 
 <p align="left">
     <a href="https://www.instagram.com/harry_kris_" alt="instagram">
