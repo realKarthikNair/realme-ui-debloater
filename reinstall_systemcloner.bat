@@ -12,7 +12,7 @@ pause
 adb wait-for-any-device
 adb reconnect
 adb wait-for-any-device
-adb shell pm uninstall -k --user 0 com.coloros.systemclone
+adb shell pm install-existing -k --user 0 com.coloros.systemclone
 echo %s%
 echo Success
 echo %s%
