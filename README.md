@@ -30,8 +30,7 @@ OR
 To enable a disabled package  
 `"adb shell pm enable <package name>"`  
 <br>
->Made with Love™ ❤️
-
+>Made with Love™ ❤️ <br>
 >by Karthik Nair 
 
 ## How to reach me? 
