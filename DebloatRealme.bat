@@ -56,7 +56,6 @@ adb shell pm uninstall com.realmestore.app
 adb shell pm uninstall com.google.android.videos
 adb shell pm uninstall -k --user 0 com.redteamobile.roaming
 adb shell pm disable-user com.android.fmradio
-adb shell pm disable-user com.coloros.calculator
 adb shell pm disable-user com.nearme.statistics.rom
 echo %s%
 echo your device has been debloated
