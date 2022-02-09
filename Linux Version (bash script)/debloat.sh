@@ -1,5 +1,5 @@
 #!/usr/bin/bash
-echo "Do you want to Debloat you Device?"
+echo "Do you want to Debloat your Device?"
 read input
 if [[ "$input" == "y" ]] || [[ "$input" == "yes" ]] || [[ "$input" == "Y" ]]; then
     adb wait-for-any-device
