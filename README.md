@@ -1,3 +1,5 @@
+> Script has NOT been tested on realme ui 3 since I don't own a device with ui 3. If you face any problems, please [let me know](#how-to-reach-me)
+
 # realme-ui-debloater
 
 Realme UI is honestly one of the smoothest custom Android skins out there in the wild.<br>
