@@ -57,6 +57,7 @@ adb shell pm uninstall com.google.android.videos
 adb shell pm uninstall -k --user 0 com.redteamobile.roaming
 adb shell pm disable-user com.android.fmradio
 adb shell pm disable-user com.nearme.statistics.rom
+adb shell pm disable-user com.glance.internet
 echo %s%
 echo your device has been debloated
 echo %s%
