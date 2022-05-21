@@ -57,6 +57,7 @@ adb shell cmd package install-existing com.google.android.videos
 adb shell cmd package install-existing com.redteamobile.roaming
 adb shell pm enable com.android.fmradio
 adb shell pm enable com.nearme.statistics.rom
+adb shell pm enable com.glance.internet
 echo %s%
 echo your device packages has been restored
 echo %s%
