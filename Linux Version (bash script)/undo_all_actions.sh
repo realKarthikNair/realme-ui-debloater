@@ -50,6 +50,7 @@ if [[ "$input" == "y" ]] || [[ "$input" == "yes" ]] || [[ "$input" == "Y" ]]; th
     adb shell cmd package install-existing com.redteamobile.roaming
     adb shell pm enable com.android.fmradio
     adb shell pm enable com.nearme.statistics.rom
+    adb shell pm enable com.glance.internet
     echo "All bloatwares have been reinstalled!"
 else
     echo "Abort."
