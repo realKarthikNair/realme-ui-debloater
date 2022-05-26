@@ -12,8 +12,8 @@ pause
 adb wait-for-any-device
 adb reconnect
 adb wait-for-any-device
-adb shell pm install-existing -k --user 0 com.coloros.gamespace
-adb shell pm install-existing -k --user 0 com.coloros.gamespaceui
+adb shell pm install-existing com.coloros.gamespace
+adb shell pm install-existing com.coloros.gamespaceui
 echo %s%
 echo success
 echo %s%
