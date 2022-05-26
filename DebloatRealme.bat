@@ -27,7 +27,7 @@ adb shell pm uninstall -k --user 0 com.facebook.services
 adb shell pm uninstall -k --user 0 com.realme.securitycheck
 adb shell pm uninstall -k --user 0 com.coloros.phonemanager
 adb shell pm uninstall -k --user 0 com.coloros.oppomultiapp
-adb shell pm uninstall -k --user 0 com.coloros.gamespace
+:: adb shell pm uninstall -k --user 0 com.coloros.gamespace
 adb shell pm uninstall -k --user 0 com.heytap.music
 adb shell pm uninstall -k --user 0 com.heytap.themestore
 adb shell pm uninstall -k --user 0 com.heytap.pictorial
@@ -37,7 +37,7 @@ adb shell pm uninstall -k --user 0 com.google.android.apps.magazines
 adb shell pm uninstall -k --user 0 com.google.android.apps.subscriptions.red
 adb shell pm uninstall -k --user 0 com.coloros.oshare
 adb shell pm uninstall -k --user 0 com.oppo.quicksearchbox
-adb shell pm uninstall -k --user 0 com.coloros.gamespaceui
+:: adb shell pm uninstall -k --user 0 com.coloros.gamespaceui
 adb shell pm uninstall -k --user 0 com.google.android.apps.nbu.files
 adb shell pm uninstall -k --user 0 com.google.android.youtube
 adb shell pm uninstall -k --user 0 com.coloros.assistantscreen
