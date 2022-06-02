@@ -12,6 +12,12 @@ pause
 adb wait-for-any-device
 adb reconnect
 adb wait-for-any-device
+adb shell cmd package install-existing com.google.android.apps.googleassistant
+adb shell cmd package install-existing com.google.ar.lens
+adb shell cmd package install-existing com.google.android.apps.docs
+adb shell cmd package install-existing com.google.android.keep
+adb shell cmd package install-existing com.google.android.apps.photos
+adb shell cmd package install-existing com.google.android.projection.gearhead
 adb shell cmd package install-existing cn.wps.moffice_eng
 adb shell cmd package install-existing com.google.android.apps.podcasts
 adb shell cmd package install-existing com.realme.link
