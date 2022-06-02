@@ -17,6 +17,11 @@ adb shell pm uninstall com.google.android.apps.podcasts
 adb shell pm uninstall com.realme.link
 adb shell pm uninstall com.google.android.apps.youtube.music
 adb shell pm uninstall com.google.android.apps.tachyon
+adb shell pm uninstall -k --user 0 com.google.ar.lens
+adb shell pm uninstall -k --user 0 com.google.android.apps.docs
+adb shell pm uninstall -k --user 0 com.google.android.keep
+adb shell pm uninstall -k --user 0 com.google.android.apps.photos
+adb shell pm uninstall -k --user 0 com.google.android.projection.gearhead
 adb shell pm uninstall -k --user 0 com.coloros.systemclone
 adb shell pm uninstall -k --user 0 com.realmepay.payments
 adb shell pm uninstall -k --user 0 com.opos.cs
