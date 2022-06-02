@@ -10,6 +10,18 @@ if [[ "$input" == "y" ]] || [[ "$input" == "yes" ]] || [[ "$input" == "Y" ]]; th
     adb shell pm uninstall com.realme.link
     adb shell pm uninstall com.google.android.apps.youtube.music
     adb shell pm uninstall com.google.android.apps.tachyon
+    adb shell pm uninstall -k --user 0 com.google.android.printservice.recommendation
+    adb shell pm uninstall -k --user 0 com.google.ar.core
+    adb shell pm uninstall -k --user 0 com.google.android.apps.googleassistant
+    adb shell pm uninstall -k --user 0 com.google.ar.lens
+    adb shell pm uninstall -k --user 0 com.google.android.apps.docs
+    adb shell pm uninstall -k --user 0 com.google.android.keep
+    adb shell pm uninstall -k --user 0 com.google.android.apps.photos
+    adb shell pm uninstall -k --user 0 com.google.android.projection.gearhead
+    adb shell pm uninstall -k --user 0 com.google.android.feedback 
+    adb shell pm uninstall -k --user 0 com.coloros.childrenspace
+    adb shell pm uninstall -k --user 0 com.coloros.compass2
+    adb shell pm uninstall -k --user 0 com.coloros.logkit
     adb shell pm uninstall -k --user 0 com.coloros.systemclone
     adb shell pm uninstall -k --user 0 com.realmepay.payments
     adb shell pm uninstall -k --user 0 com.opos.cs
