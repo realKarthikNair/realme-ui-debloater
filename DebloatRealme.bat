@@ -17,6 +17,8 @@ adb shell pm uninstall com.google.android.apps.podcasts
 adb shell pm uninstall com.realme.link
 adb shell pm uninstall com.google.android.apps.youtube.music
 adb shell pm uninstall com.google.android.apps.tachyon
+adb shell pm uninstall -k --user 0 com.android.hotwordenrollment.okgoogle
+adb shell pm uninstall -k --user 0 com.google.android.apps.nbu.files
 adb shell pm uninstall -k --user 0 com.google.android.printservice.recommendation
 adb shell pm uninstall -k --user 0 com.google.ar.core
 adb shell pm uninstall -k --user 0 com.google.android.apps.googleassistant
