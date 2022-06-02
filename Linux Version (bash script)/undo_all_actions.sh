@@ -48,6 +48,7 @@ if [[ "$input" == "y" ]] || [[ "$input" == "yes" ]] || [[ "$input" == "Y" ]]; th
     adb shell cmd package install-existing com.realmestore.app
     adb shell cmd package install-existing com.google.android.videos
     adb shell cmd package install-existing com.redteamobile.roaming
+    adb shell cmd package install-existing com.coloros.phonemanager
     adb shell pm enable com.android.fmradio
     adb shell pm enable com.nearme.statistics.rom
     adb shell pm enable com.glance.internet
