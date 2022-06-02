@@ -32,6 +32,8 @@ OR
 
 To enable a disabled package  
 `"adb shell pm enable <package name>"`  
+
+- There WON'T be any issues updating your phone after debloating as far as i noticed on my personal device.
 <br>
 >Made with Love™ ❤️ <br>
 >by Karthik Nair 
