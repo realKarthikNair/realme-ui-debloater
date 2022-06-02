@@ -25,6 +25,10 @@ adb shell pm uninstall -k --user 0 com.google.android.apps.docs
 adb shell pm uninstall -k --user 0 com.google.android.keep
 adb shell pm uninstall -k --user 0 com.google.android.apps.photos
 adb shell pm uninstall -k --user 0 com.google.android.projection.gearhead
+adb shell pm uninstall -k --user 0 com.google.android.feedback 
+adb shell pm uninstall -k --user 0 com.coloros.childrenspace
+adb shell pm uninstall -k --user 0 com.coloros.compass2
+adb shell pm uninstall -k --user 0 com.coloros.logkit 
 adb shell pm uninstall -k --user 0 com.coloros.systemclone
 adb shell pm uninstall -k --user 0 com.realmepay.payments
 adb shell pm uninstall -k --user 0 com.opos.cs
