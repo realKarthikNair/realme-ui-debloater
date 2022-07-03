@@ -12,7 +12,7 @@ No complicated steps, no root required, entirely safe<br>
 `1. A Realme device with USB debugging on `  
 `2. computer`
 
-[see how to turn on USB Debugging] (https://telegra.ph/How-to-turn-USB-Debugging-ON-on-a-realmeoppooneplus-device-07-03)
+[see how to turn on USB Debugging](https://telegra.ph/How-to-turn-USB-Debugging-ON-on-a-realmeoppooneplus-device-07-03)
 
 ## How to Use
 
