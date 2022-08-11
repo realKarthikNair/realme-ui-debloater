@@ -1,4 +1,30 @@
-# realme-ui-debloater
+<p align="center">
+    <a href="https://github.com/realKarthikNair/GBoard-Dictionary-Maker/stargazers" alt="Stars">
+        <img src="https://img.shields.io/github/stars/realKarthikNair/GBoard-Dictionary-Maker.svg?style=for-the-badge" /></a>
+    <a href="https://github.com/realKarthikNair/GBoard-Dictionary-Maker/issues" alt="Issues">
+        <img src="https://img.shields.io/github/issues/realKarthikNair/GBoard-Dictionary-Maker.svg?style=for-the-badge" /></a>
+</p>
+
+<div align="center">
+
+<h2 align="center">realme-ui-debloater</h2>
+  <p align="center">
+ <h3>Remove useless apps from realme UI with ease</h3>
+    <br />
+</div>
+
+<p align="center">
+    <a href="#how-to-use" alt="Installation">
+        <img src="https://img.shields.io/badge/Installation-%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB-brightgreen" /></a>
+    <a href="https://github.com/realKarthikNair/realme-ui-debloater/issues/new/choose" alt="Report a Bug">
+        <img src="https://img.shields.io/badge/%20%20Report%20a%20Bug-%F0%9F%90%9E-orange" /></a>
+    <a href="https://github.com/realKarthikNair/realme-ui-debloater/issues/new/choose" alt="Request a Feature">
+        <img src="https://img.shields.io/badge/Request%20a%20Feature-%F0%9F%93%88-yellowgreen" /></a>
+    <a href="https://coindrop.to/realkarthiknair" alt="Donate">
+        <img src="https://img.shields.io/badge/donate-%F0%9F%92%B0-lightgrey" /></a>
+</p>
+
+## Introduction
 
 Realme UI is honestly one of the smoothest custom Android skins out there in the wild.<br>
 But Bloatware applications that ship out of box spoil the experience. <br>
