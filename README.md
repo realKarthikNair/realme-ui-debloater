@@ -23,7 +23,7 @@ No complicated steps, no risk, no root required, entirely safe<br>
 - A Working Brain
 
 
-*[see how to turn on USB Debugging](/Turning_on_usb_debugging.png)
+*[see how to turn on USB Debugging](/Turning_on_usb_debugging.md)
 
 **_If you don't have access to a computer, you can also use an Android device with [magisk adb binaries](https://sourceforge.net/projects/magiskfiles/files/module-uploads/adb-ndk-103916.zip/download) installed and an OTG Cable (But in that case, the other device should have root access via magisk)_
 
@@ -37,7 +37,7 @@ No complicated steps, no risk, no root required, entirely safe<br>
 
 - Unzip the file 
 
-- [Turn on USB Debugging on phone](/Turning_on_usb_debugging.png)
+- [Turn on USB Debugging on phone](/Turning_on_usb_debugging.md)
 
 ## **1. Debloating the device**
 
