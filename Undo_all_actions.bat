@@ -56,6 +56,7 @@ adb shell cmd package install-existing com.realmestore.app
 adb shell cmd package install-existing com.google.android.videos
 adb shell cmd package install-existing com.redteamobile.roaming
 adb shell cmd package install-existing com.oplus.games
+adb shell pm enable com.heytap.market
 adb shell pm enable com.android.fmradio
 adb shell pm enable com.nearme.statistics.rom
 adb shell pm enable com.glance.internet
