@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/bin/zsh
 echo "Do you want to Debloat your Device?[y/n]"
 read input
 if [[ "$input" == "y" ]] || [[ "$input" == "yes" ]] || [[ "$input" == "Y" ]]; then

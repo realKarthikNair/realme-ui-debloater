@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/bin/zsh
 echo "Do you want to reinstall all of the bloatware packages back?[y/n]"
 read input
 if [[ "$input" == "y" ]] || [[ "$input" == "yes" ]] || [[ "$input" == "Y" ]]; then
