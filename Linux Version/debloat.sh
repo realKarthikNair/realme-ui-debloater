@@ -6,9 +6,7 @@ if [[ "$input" == "y" ]] || [[ "$input" == "yes" ]] || [[ "$input" == "Y" ]]; th
     ./adb reconnect
     ./adb wait-for-any-device
     ./adb shell pm uninstall -k --user 0 cn.wps.moffice_eng
-    ./adb shell pm uninstall -k --user 0 com.google.android.apps.podcasts
     ./adb shell pm uninstall -k --user 0 com.realme.link
-    ./adb shell pm uninstall -k --user 0 com.google.android.apps.youtube.music
     ./adb shell pm uninstall -k --user 0 com.google.android.apps.tachyon
     ./adb shell pm uninstall -k --user 0 com.coloros.systemclone
     ./adb shell pm uninstall -k --user 0 com.realmepay.payments
@@ -32,7 +30,6 @@ if [[ "$input" == "y" ]] || [[ "$input" == "yes" ]] || [[ "$input" == "Y" ]]; th
     ./adb shell pm uninstall -k --user 0 com.oppo.quicksearchbox
     #./ adb shell pm uninstall -k --user 0 com.coloros.gamespaceui
     ./adb shell pm uninstall -k --user 0 com.google.android.apps.nbu.files
-    ./adb shell pm uninstall -k --user 0 com.google.android.youtube
     ./adb shell pm uninstall -k --user 0 com.coloros.assistantscreen
     ./adb shell pm uninstall -k --user 0 com.google.android.apps.nbu.paisa.user
     ./adb shell pm uninstall -k --user 0 com.coloros.videoeditor
