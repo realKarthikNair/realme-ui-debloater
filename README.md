@@ -1,8 +1,10 @@
 <p align="center">
-    <a href="https://github.com/realKarthikNair/GBoard-Dictionary-Maker/stargazers" alt="Stars">
-        <img src="https://img.shields.io/github/stars/realKarthikNair/GBoard-Dictionary-Maker.svg?style=for-the-badge" /></a>
-    <a href="https://github.com/realKarthikNair/GBoard-Dictionary-Maker/issues" alt="Issues">
-        <img src="https://img.shields.io/github/issues/realKarthikNair/GBoard-Dictionary-Maker.svg?style=for-the-badge" /></a>
+    <a href="https://github.com/realKarthikNair/realme-ui-debloater/stargazers" alt="Stars">
+        <img src="https://img.shields.io/github/stars/realKarthikNair/realme-ui-debloater.svg?style=for-the-badge" /></a>
+    <a href="https://github.com/realKarthikNair/realme-ui-debloater/issues" alt="Issues">
+        <img src="https://img.shields.io/github/issues/realKarthikNair/realme-ui-debloater.svg?style=for-the-badge" /></a>
+    <a href="https://github.com/realKarthikNair/realme-ui-debloater/network/members" alt="Forks">
+        <img src="https://img.shields.io/github/forks/realKarthikNair/realme-ui-debloater.svg?style=for-the-badge" /></a>
 </p>
 
 <div align="center">
