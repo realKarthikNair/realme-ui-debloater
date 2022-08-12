@@ -59,7 +59,7 @@ No complicated steps, no risk, no root required, entirely safe<br>
 
 > You DONT NEED to root your device to use this script and debloat it
 
-## Prerequisites
+### Prerequisites
 
 - Get the **latest** appropriate zip file for your OS from [releases](https://github.com/realKarthikNair/realme-ui-debloater/releases)
 
@@ -67,7 +67,7 @@ No complicated steps, no risk, no root required, entirely safe<br>
 
 - [Turn on USB Debugging on phone](/Turning_on_usb_debugging.md)
 
-## **1. Debloating the device**
+### **1. Debloating the device**
 
 - On windows, head over to the unzipped folder and simply double click on the **DebloatRealme.bat** file 
 
@@ -75,7 +75,7 @@ No complicated steps, no risk, no root required, entirely safe<br>
 
 - On BSD, first compile adb from [here](https://github.com/neelchauhan/freebsd-android-tools) rest use the same method as MacOS/Linux but replace the adb binary/path in command accordingly for BSD
 
-## **2. Revert everything incase of any issues**
+### **2. Revert everything incase of any issues**
 
 > You wont be facing any problems after debloating your device in ideal cases. The below steps exists for worst-case scenarios and for documentation purposes.
 
@@ -85,7 +85,7 @@ No complicated steps, no risk, no root required, entirely safe<br>
 
 - On BSD, first compile adb from [here](https://github.com/neelchauhan/freebsd-android-tools) rest use the same method as MacOS/Linux but replace the adb binary/path in command accordingly for BSD
 
-## That's it ! Enjoy !
+### That's it ! Enjoy !
 
 ## footnotes
 
