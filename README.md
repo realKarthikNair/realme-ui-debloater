@@ -75,6 +75,8 @@ No complicated steps, no risk, no root required, entirely safe<br>
 
 - On BSD, first compile adb from [here](https://github.com/neelchauhan/freebsd-android-tools) rest use the same method as MacOS/Linux but replace the adb binary/path in command accordingly for BSD
 
+**There would be promopt showing up on phone, tap "ok" on that**
+
 ### **2. Revert everything incase of any issues**
 
 > You wont be facing any problems after debloating your device in ideal cases. The below steps exists for worst-case scenarios and for documentation purposes.
@@ -85,19 +87,23 @@ No complicated steps, no risk, no root required, entirely safe<br>
 
 - On BSD, first compile adb from [here](https://github.com/neelchauhan/freebsd-android-tools) rest use the same method as MacOS/Linux but replace the adb binary/path in command accordingly for BSD
 
+**There would be promopt showing up on phone, tap "ok" on that**
+
 ### That's it ! Enjoy !
 
 ## footnotes
 
-To manually reinstall an uninstalled package for user 0, use the command  
+- To manually reinstall an uninstalled package for user 0, use the command  
 `"adb shell pm install-existing <package name>"`  
 OR  
 `"adb shell cmd package install-existing <package name>"`  
 
-To manually enable a disabled package  
+- To manually enable a disabled package  
 `"adb shell pm enable <package name>"`  
 
-- There WON'T be any issues updating your phone after debloating as far as i noticed on my personal as well testers' device.
+- There WON'T be any issues updating your phone after debloating as far as i noticed on my personal as well testers' devices
+
+- After every software update, run debloater again since some bloatware apps are reinstalled 
 
 
 >Made with Love™ ❤️ <br>
