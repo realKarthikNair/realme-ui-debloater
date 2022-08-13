@@ -53,6 +53,9 @@ adb shell pm uninstall -k --user 0 com.realmestore.app
 adb shell pm uninstall -k --user 0 com.google.android.videos
 adb shell pm uninstall -k --user 0 com.redteamobile.roaming
 adb shell pm uninstall -k --user 0 com.oplus.games
+adb shell pm uninstall -k --user 0 com.daemon.shelper
+adb shell pm uninstall -k --user 0 com.rongcard.eidapi
+adb shell pm disable-user com.rongcard.eidapi
 adb shell pm disable-user com.heytap.market
 adb shell pm disable-user com.android.fmradio
 adb shell pm disable-user com.nearme.statistics.rom
