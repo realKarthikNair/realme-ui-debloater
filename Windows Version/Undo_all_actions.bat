@@ -58,6 +58,48 @@ adb shell cmd package install-existing com.redteamobile.roaming
 adb shell cmd package install-existing com.oplus.games
 adb shell cmd package install-existing com.daemon.shelper
 adb shell cmd package install-existing com.rongcard.eidapi
+adb shell cmd package install-existing com.daemon.shelper
+adb shell cmd package install-existing com.rongcard.eidapi
+adb shell cmd package install-existing com.ses.entitlement.o2
+adb shell cmd package install-existing com.ted.number
+adb shell cmd package install-existing com.tencent.soter.soterserver
+adb shell cmd package install-existing com.wapi.wapicertmanage
+adb shell cmd package install-existing com.realme.movieshot
+adb shell cmd package install-existing com.realme.securitycheck
+adb shell cmd package install-existing com.realme.wellbeing
+adb shell cmd package install-existing com.oppo.opperationManual
+adb shell cmd package install-existing com.coloros.childrenspace
+adb shell cmd package install-existing com.coloros.focusmode
+adb shell cmd package install-existing com.coloros.karaoke
+adb shell cmd package install-existing com.coloros.scenemode
+adb shell cmd package install-existing com.coloros.securepay
+adb shell cmd package install-existing com.coloros.smartdrive
+adb shell cmd package install-existing com.oplus.apprecover
+adb shell cmd package install-existing com.oplus.atlas
+adb shell cmd package install-existing com.oplus.blacklistapp
+adb shell cmd package install-existing com.oplus.crashbox
+adb shell cmd package install-existing com.oplus.pay
+adb shell pm enable com.oplus.pay
+adb shell pm enable com.oplus.crashbox
+adb shell pm enable com.oplus.blacklistapp
+adb shell pm enable com.oplus.atlas
+adb shell pm enable com.oplus.apprecover
+adb shell pm enable com.coloros.smartdrive
+adb shell pm enable com.coloros.securepay
+adb shell pm enable com.coloros.scenemode
+adb shell pm enable com.coloros.karaoke
+adb shell pm enable com.coloros.focusmode
+adb shell pm enable com.coloros.childrenspace
+adb shell pm enable com.oppo.opperationManual
+adb shell pm enable com.realme.wellbeing
+adb shell pm enable com.realme.securitycheck
+adb shell pm enable com.realme.movieshot
+adb shell pm enable com.wapi.wapicertmanage
+adb shell pm enable com.tencent.soter.soterserver
+adb shell pm enable com.ted.number
+adb shell pm enable com.ses.entitlement.o2
+adb shell pm enable com.rongcard.eidapi
+adb shell pm enable com.daemon.shelper
 adb shell pm enable com.rongcard.eidapi
 adb shell pm enable com.heytap.market
 adb shell pm enable com.android.fmradio

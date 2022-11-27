@@ -48,11 +48,54 @@ if [[ "$input" == "y" ]] || [[ "$input" == "yes" ]] || [[ "$input" == "Y" ]]; th
     ./adb shell pm uninstall -k --user 0 com.oplus.games
     ./adb shell pm uninstall -k --user 0 com.daemon.shelper
     ./adb shell pm uninstall -k --user 0 com.rongcard.eidapi
+    ./adb shell pm uninstall -k --user 0 com.daemon.shelper
+    ./adb shell pm uninstall -k --user 0 com.rongcard.eidapi
+    ./adb shell pm uninstall -k --user 0 com.ses.entitlement.o2
+    ./adb shell pm uninstall -k --user 0 com.ted.number
+    ./adb shell pm uninstall -k --user 0 com.tencent.soter.soterserver
+    ./adb shell pm uninstall -k --user 0 com.wapi.wapicertmanage
+    ./adb shell pm uninstall -k --user 0 com.realme.movieshot
+    ./adb shell pm uninstall -k --user 0 com.realme.securitycheck
+    ./adb shell pm uninstall -k --user 0 com.realme.wellbeing
+    ./adb shell pm uninstall -k --user 0 com.oppo.opperationManual
+    ./adb shell pm uninstall -k --user 0 com.coloros.childrenspace
+    ./adb shell pm uninstall -k --user 0 com.coloros.focusmode
+    ./adb shell pm uninstall -k --user 0 com.coloros.karaoke
+    ./adb shell pm uninstall -k --user 0 com.coloros.scenemode
+    ./adb shell pm uninstall -k --user 0 com.coloros.securepay
+    ./adb shell pm uninstall -k --user 0 com.coloros.smartdrive
+    ./adb shell pm uninstall -k --user 0 com.oplus.apprecover
+    ./adb shell pm uninstall -k --user 0 com.oplus.atlas
+    ./adb shell pm uninstall -k --user 0 com.oplus.blacklistapp
+    ./adb shell pm uninstall -k --user 0 com.oplus.crashbox
+    ./adb shell pm uninstall -k --user 0 com.oplus.pay
+    ./adb shell pm disable-user com.oplus.pay
+    ./adb shell pm disable-user com.oplus.crashbox
+    ./adb shell pm disable-user com.oplus.blacklistapp
+    ./adb shell pm disable-user com.oplus.atlas
+    ./adb shell pm disable-user com.oplus.apprecover
+    ./adb shell pm disable-user com.coloros.smartdrive
+    ./adb shell pm disable-user com.coloros.securepay
+    ./adb shell pm disable-user com.coloros.scenemode
+    ./adb shell pm disable-user com.coloros.karaoke
+    ./adb shell pm disable-user com.coloros.focusmode
+    ./adb shell pm disable-user com.coloros.childrenspace
+    ./adb shell pm disable-user com.oppo.opperationManual
+    ./adb shell pm disable-user com.realme.wellbeing
+    ./adb shell pm disable-user com.realme.securitycheck
+    ./adb shell pm disable-user com.realme.movieshot
+    ./adb shell pm disable-user com.wapi.wapicertmanage
+    ./adb shell pm disable-user com.tencent.soter.soterserver
+    ./adb shell pm disable-user com.ted.number
+    ./adb shell pm disable-user com.ses.entitlement.o2
+    ./adb shell pm disable-user com.rongcard.eidapi
+    ./adb shell pm disable-user com.daemon.shelper
     ./adb shell pm disable-user com.rongcard.eidapi
     ./adb shell pm disable-user com.heytap.market
     ./adb shell pm disable-user com.android.fmradio
     ./adb shell pm disable-user com.nearme.statistics.rom
     ./adb shell pm disable-user com.glance.internet
+    ./adb shell pm disable-user com.heytap.accessory
      echo "Your realme device has been Debloated"
 else
     echo "Abort."
