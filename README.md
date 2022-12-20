@@ -77,7 +77,7 @@ No complicated steps, no risk, no root required, entirely safe<br>
 
 **There would be promopt showing up on phone, tap "ok" on that**
 
-### **2. Revert everything incase of any issues**
+### **2. Revert everything**
 
 > You wont be facing any problems after debloating your device in ideal cases. The below steps exists for worst-case scenarios and for documentation purposes.
 
