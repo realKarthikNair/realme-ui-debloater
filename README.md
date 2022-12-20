@@ -26,8 +26,18 @@
         <img src="https://img.shields.io/badge/donate-%F0%9F%92%B0-lightgrey" /></a>
 </p>
 
-## Introduction
+- [Introduction](#introduction)
+- [Features](#features)
+- [Requirements](#requirements)
+- [How to Use](#how-to-use)
+    - [Prerequisites](#prerequisites)
+    - [1. Debloating the device](#1-debloating-the-device)
+    - [2. Revert everything](#2revert-everything)
+- [footnotes](#footnotes)
 
+
+## Introduction
+* [That's it ! Enjoy !](#that-s-it---enjoy--)
 Realme UI is honestly one of the smoothest custom Android skins out there in the wild.<br>
 But Bloatware applications that ship out of box spoil the experience. <br>
 You may never use apps like "Hot apps", "realme pay", "heytap cloud", "phone manager", etc. <br>
