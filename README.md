@@ -65,6 +65,8 @@ No complicated steps, no risk, no root required, entirely safe<br>
 
 **_If you don't have access to a computer, you can also use an Android device with [magisk adb binaries](https://sourceforge.net/projects/magiskfiles/files/module-uploads/adb-ndk-103916.zip/download) installed and an OTG Cable (But in that case, the other device should have root access via magisk)_
 
+<p align="right">(<a href="#top">back to top</a>)</p><br>
+
 ## **How to Use**
 
 > You DONT NEED to root your device to use this script and debloat it
@@ -100,6 +102,8 @@ No complicated steps, no risk, no root required, entirely safe<br>
 **There would be promopt showing up on phone, tap "ok" on that**
 
 ### That's it ! Enjoy !
+
+<p align="right">(<a href="#top">back to top</a>)</p><br>
 
 ## footnotes
 
