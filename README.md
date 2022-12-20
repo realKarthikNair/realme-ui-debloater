@@ -37,7 +37,7 @@
 
 
 ## Introduction
-* [That's it ! Enjoy !](#that-s-it---enjoy--)
+
 Realme UI is honestly one of the smoothest custom Android skins out there in the wild.<br>
 But Bloatware applications that ship out of box spoil the experience. <br>
 You may never use apps like "Hot apps", "realme pay", "heytap cloud", "phone manager", etc. <br>
