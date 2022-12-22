@@ -26,6 +26,16 @@
         <img src="https://img.shields.io/badge/donate-%F0%9F%92%B0-lightgrey" /></a>
 </p>
 
+- [Introduction](#introduction)
+- [Features](#features)
+- [Requirements](#requirements)
+- [How to Use](#how-to-use)
+    - [Prerequisites](#prerequisites)
+    - [1. Debloating the device](#1-debloating-the-device)
+    - [2. Revert everything](#2revert-everything)
+- [footnotes](#footnotes)
+
+
 ## Introduction
 
 Realme UI is honestly one of the smoothest custom Android skins out there in the wild.<br>
@@ -55,6 +65,8 @@ No complicated steps, no risk, no root required, entirely safe<br>
 
 **_If you don't have access to a computer, you can also use an Android device with [magisk adb binaries](https://sourceforge.net/projects/magiskfiles/files/module-uploads/adb-ndk-103916.zip/download) installed and an OTG Cable (But in that case, the other device should have root access via magisk)_
 
+<p align="right">(<a href="#top">back to top</a>)</p><br>
+
 ## **How to Use**
 
 > You DONT NEED to root your device to use this script and debloat it
@@ -77,7 +89,7 @@ No complicated steps, no risk, no root required, entirely safe<br>
 
 **There would be promopt showing up on phone, tap "ok" on that**
 
-### **2. Revert everything incase of any issues**
+### **2. Revert everything**
 
 > You wont be facing any problems after debloating your device in ideal cases. The below steps exists for worst-case scenarios and for documentation purposes.
 
@@ -90,6 +102,8 @@ No complicated steps, no risk, no root required, entirely safe<br>
 **There would be promopt showing up on phone, tap "ok" on that**
 
 ### That's it ! Enjoy !
+
+<p align="right">(<a href="#top">back to top</a>)</p><br>
 
 ## footnotes
 
