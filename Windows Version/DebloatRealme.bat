@@ -76,6 +76,16 @@ adb shell pm uninstall -k --user 0 com.oplus.atlas
 adb shell pm uninstall -k --user 0 com.oplus.blacklistapp
 adb shell pm uninstall -k --user 0 com.oplus.crashbox
 adb shell pm uninstall -k --user 0 com.oplus.pay
+adb shell pm uninstall -k --user 0 com.eterno.shortvideos
+adb shell pm uninstall -k --user 0 com.king.candycrushsaga
+adb shell pm uninstall -k --user 0 in.mohalla.video
+adb shell pm uninstall -k --user 0 com.jio.media.ondemand
+adb shell pm uninstall -k --user 0 com.eterno
+adb shell pm uninstall -k --user 0 net.one97.paytm
+adb shell pm uninstall -k --user 0 com.phonepe.app
+adb shell pm uninstall -k --user 0 com.netflix.mediaclient
+adb shell pm uninstall -k --user 0 in.mohalla.sharechat
+adb shell pm uninstall -k --user 0 com.snapchat.android
 adb shell pm disable-user com.oplus.pay
 adb shell pm disable-user com.oplus.crashbox
 adb shell pm disable-user com.oplus.blacklistapp
